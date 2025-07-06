@@ -24,7 +24,7 @@ UDS được sử dụng rộng rãi bởi các nhà sản xuất thiết bị g
 
 Theo báo cáo thị trường, thị trường chẩn đoán ô tô được định giá 18,2 tỷ USD vào năm 2023 và dự kiến đạt 32,5 tỷ USD vào năm 2030 với tốc độ tăng trưởng hàng năm (CAGR) là 8,5% ([MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/automotive-diagnostic-scan-tools-market-1532.html)).
 
-![UDS Protocol Overview](/assets/img/uds-protocol-overview.png){: width="800" height="400" .shadow }
+![UDS Protocol Overview](/assets/img/UDS/uds-protocol-overview.png){: width="800" height="400" .shadow }
 _UDS Protocol Overview - Hệ thống chẩn đoán UDS trong ô tô hiện đại_
 
 ## 2. Cấu trúc của UDS Message

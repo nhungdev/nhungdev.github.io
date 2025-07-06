@@ -23,7 +23,7 @@ Giao thức **Controller Area Network (CAN)** là một trong những giao thứ
 
 Theo báo cáo thị trường, thị trường thiết bị CAN Bus được định giá 10,3 tỷ USD vào năm 2023 và dự kiến đạt 15,5 tỷ USD vào năm 2030 với tốc độ tăng trưởng hàng năm (CAGR) là 12,6% ([Logic Fruit](https://www.logic-fruit.com/blog/can/controller-area-network-can-guide/)).
 
-![CAN Protocol Overview](/assets/img/can-protocol-overview.png){: width="800" height="400" .shadow }
+![CAN Protocol Overview](/assets/img/CAN/can-protocol-overview.png){: width="800" height="400" .shadow }
 _CAN Protocol Overview - Hệ thống giao tiếp CAN trong ô tô hiện đại_
 
 ## 2. Cấu trúc frame trong CAN
